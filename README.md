@@ -59,6 +59,8 @@ Become a sponsor and get a logo here. See details at [Sponsoring the XGBoost Pro
 ### Backers
 [[Become a backer](https://opencollective.com/xgboost#backer)]
 
+Test
+
 <a href="https://opencollective.com/xgboost#backers" target="_blank"><img src="https://opencollective.com/xgboost/backers.svg?width=890"></a>
 
 ## Other sponsors
